@@ -1,0 +1,41 @@
+.Overview{
+    background-image: url("./background.jpg");
+    background-size: cover;
+     margin-top:-10px;
+    min-height: 92vh;
+    max-height: auto;
+}
+
+.Overview_Body{
+    width: 70%;
+    margin-top: 10vw;
+    margin-left: 50px;
+    /* margin: 30px; */
+}
+
+.Overview_Body p{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    line-height: 150%;
+    letter-spacing: 0.0625em;
+}
+.Overview_Body a{
+    text-decoration: none;
+    color: white;
+
+    font-size: 18px;
+    padding: 0 20px;
+    font-weight: bold;
+}
+
+.Author{
+    border: 4px solid  rgb(248, 225, 19);
+}
+
+.Navlink{
+    font-size: 20px;
+    color: white;
+    padding: 0 15px;
+    text-transform: none;
+}
